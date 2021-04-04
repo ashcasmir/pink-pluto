@@ -21,7 +21,7 @@ more_link_text: Read more
 seo:
   type: stackbit_page_meta
   title: Ash Casmir | Digital Marketer
-  description: The preview of the Ampersand theme
+  description: Helping brands grow their customers and build their business online.
   extra:
     - name: 'og:type'
       value: website
