@@ -27,7 +27,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: Ash Casmir | Digital Marketer
       keyName: property
     - name: 'og:description'
       value: The preview of the Ampersand theme
