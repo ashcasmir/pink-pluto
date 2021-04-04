@@ -37,7 +37,7 @@
                 "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/ashcasmir",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
