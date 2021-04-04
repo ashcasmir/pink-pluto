@@ -16,6 +16,7 @@ intro_actions:
     label: Contact
     style: secondary
     url: 'mailto:mail@ashcasmir.com'
+    new_window: true
 has_more_link: true
 more_link_text: Read more
 seo:
