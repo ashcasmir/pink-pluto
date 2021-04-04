@@ -15,7 +15,7 @@ intro_actions:
   - type: action
     label: Contact
     style: secondary
-    url: 'mailto:name@ashcasmir.com'
+    url: 'mailto:mail@ashcasmir.com'
 has_more_link: true
 more_link_text: Read more
 seo:
