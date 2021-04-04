@@ -20,7 +20,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   type: stackbit_page_meta
-  title: Stackbit Ampersand Theme
+  title: Ash Casmir | Digital Marketer
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
