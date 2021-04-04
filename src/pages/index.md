@@ -1,10 +1,12 @@
 ---
 title: Home
 has_intro: true
-intro_content: |
-  # Helping brands grow their customer base and build their business on digital.
+intro_content: >
+  #### Helping brands grow their customer base and build their business on
+  digital.
 
-  #### Digital Marketing • Product Marketing • Growth • Social Media
+
+  Digital Marketing • Product Marketing • Growth • Social Media
 intro_actions:
   - type: action
     label: Learn More
