@@ -37,7 +37,7 @@ export default class Home extends React.Component {
                       {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}
                       className={classNames({'button': (_.get(action, 'style', null) === 'primary') || (_.get(action, 'style', null) === 'secondary'), 'button-secondary': _.get(action, 'style', null) === 'secondary'})}>
                       {_.get(action, 'label', null)}
-                    </Link>
+                    </Link></a>
                     ))}
                   </div>
                   )}
