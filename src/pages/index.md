@@ -13,7 +13,6 @@ intro_actions:
   - type: action
     label: Contact
     style: secondary
-    url: 'mailto:ashcasmir@gmail.com'
 has_more_link: true
 more_link_text: Read more
 seo:
