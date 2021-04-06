@@ -33,13 +33,12 @@ export default class Home extends React.Component {
                   <div className="intro-cta">
                     {_.map(_.get(this.props, 'pageContext.frontmatter.intro_actions', null), (action, action_idx) => (
                     <a href='mailto:ashcasmir@gmail.com'></a>
-                        <Link key={action_idx} to={withPrefix(_.get(action, 'url', null))}
+                    <Link key={action_idx} to={withPrefix(_.get(action, 'url', null))}
                       {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}
                       {...((_.get(action, 'new_window', null) || _.get(action, 'no_follow', null)) ? ({rel: (_.get(action, 'new_window', null) ? ('noopener ') : '') + (_.get(action, 'no_follow', null) ? ('nofollow') : '')}) : null)}
                       className={classNames({'button': (_.get(action, 'style', null) === 'primary') || (_.get(action, 'style', null) === 'secondary'), 'button-secondary': _.get(action, 'style', null) === 'secondary'})}>
                       {_.get(action, 'label', null)}
-                        </Link>
-                    </a>
+                    </Link>
                     ))}
                   </div>
                   )}
