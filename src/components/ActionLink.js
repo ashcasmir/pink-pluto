@@ -21,7 +21,7 @@ export default class ActionLink extends React.Component {
               </React.Fragment>) : 
                 _.get(action, 'label', null)
               }
-            </Link></center>
+            </Link>
         );
     }
 }
