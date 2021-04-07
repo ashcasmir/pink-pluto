@@ -4,7 +4,7 @@ date: '2019-03-30'
 thumb_img_path: /images/shawn-henry-eK_aInAXydw-unsplash.jpg
 thumb_img_alt: A white modern house
 content_img_path: /images/shawn-henry-eK_aInAXydw-unsplash.jpg
-content_img_alt: 'difficult '
+content_img_alt: difficult training
 excerpt: >-
   Photo by <a
   href="https://unsplash.com/@1ofakind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">shawn
