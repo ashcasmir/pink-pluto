@@ -3,7 +3,7 @@ title: It's Going To Be Difficult Until It Gets Easy
 date: '2019-03-30'
 thumb_img_path: images/9.jpg
 thumb_img_alt: A white modern house
-content_img_path: images/9.jpg
+content_img_path: /images/shawn-henry-eK_aInAXydw-unsplash.jpg
 content_img_alt: A white modern house
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
