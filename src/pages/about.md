@@ -1,6 +1,8 @@
 ---
 title: About Me
-img_path: images/about.jpg
+img_path: >-
+  /images/Take risks and you'll get the payoffs. Learn from your mistakes until
+  you succeed It's that simple._ (2).png
 img_alt: A man standing on a rock outside the cave
 seo:
   type: stackbit_page_meta
