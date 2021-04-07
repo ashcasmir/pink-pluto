@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: It's Going To Be Difficult Until It Gets Easy
 date: '2019-03-30'
 thumb_img_path: images/9.jpg
 thumb_img_alt: A white modern house
