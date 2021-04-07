@@ -5,11 +5,6 @@ thumb_img_path: /images/shawn-henry-eK_aInAXydw-unsplash.jpg
 thumb_img_alt: A white modern house
 content_img_path: /images/shawn-henry-eK_aInAXydw-unsplash.jpg
 content_img_alt: difficult training
-excerpt: >-
-  Photo by <a
-  href="https://unsplash.com/@1ofakind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">shawn
-  henry</a> on <a
-  href="https://unsplash.com/s/photos/the-grind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
 seo:
   type: stackbit_page_meta
   title: The Advantages and Disadvantages of Working from Home
