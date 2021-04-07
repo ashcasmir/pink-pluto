@@ -1,6 +1,5 @@
 ---
 title: About Me
-subtitle: lorem-ipsum
 img_alt: A man standing on a rock outside the cave
 seo:
   type: stackbit_page_meta
