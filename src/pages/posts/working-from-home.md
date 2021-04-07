@@ -34,6 +34,8 @@ seo:
       relativeUrl: true
 template: post
 ---
+*Photo by *[*shawn henry*](https://unsplash.com/@1ofakind?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)* on *[*Unsplash*](https://unsplash.com/s/photos/the-grind?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+  
 Most of the things that I am now good at, were a lot difficult in the beginning. I used to be very conscious while doing things that have now become second nature to me.
 
 Perhaps, it was spending all that time immersed in the monotony of repetition. Or maybe it is just the way of life. Unlike, most video games, where the difficulty is progressively incremental.
