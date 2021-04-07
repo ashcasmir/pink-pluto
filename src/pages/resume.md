@@ -31,8 +31,6 @@ seo:
 template: page
 img_path: images/about.jpg
 ---
-![](/images/Takeundefined20andundefined20getundefined20payoffs.undefined20fromundefined20mistakesundefined20youundefined20It'sundefined20simple.\_%20\(2\).png)
-
 I'm **Ashwin Casmir.** I am a digital marketer with more than 10 years of professional experience in digital marketing including digital advertising, social media management, content marketing, SEO and digital analytics. I've honed my skills in critical thinking and agile execution, working with multiple fast-paced consumer product companies across a variety of industries, including education, mobility services, gaming and financial services industries.
 
 I am inspired by companies with big vision & start-ups with big dreams. And I am eager to work with passionate people in building a brand that makes a dent in the universe.
