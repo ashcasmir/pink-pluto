@@ -31,13 +31,10 @@ seo:
       relativeUrl: true
 template: page
 ---
+![](/images/Take%20risks%20and%20you'll%20get%20the%20payoffs.%20Learn%20from%20your%20mistakes%20until%20you%20succeed%20It's%20that%20simple.\_%20\(2\).png)
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I'm **Ashwin Casmir.** I am a digital marketer with more than 10 years of professional experience in digital marketing including digital advertising, social media management, content marketing, SEO and digital analytics. I've honed my skills in critical thinking and agile execution, working with multiple fast-paced consumer product companies across a variety of industries, including education, mobility services, gaming and financial services industries.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I am inspired by companies with big vision & start-ups with big dreams. And I am eager to work with passionate people in building a brand that makes a dent in the universe.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+**Need help in building your brand on digital? Let's talk**
