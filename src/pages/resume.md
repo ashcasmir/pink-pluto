@@ -29,7 +29,9 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 template: page
-img_path: images/about.jpg
+img_path: >-
+  /images/Take risks and you'll get the payoffs. Learn from your mistakes until
+  you succeed It's that simple._ (2).png
 ---
 I'm **Ashwin Casmir.** I am a digital marketer with more than 10 years of professional experience in digital marketing including digital advertising, social media management, content marketing, SEO and digital analytics. I've honed my skills in critical thinking and agile execution, working with multiple fast-paced consumer product companies across a variety of industries, including education, mobility services, gaming and financial services industries.
 
