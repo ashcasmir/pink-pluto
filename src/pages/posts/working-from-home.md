@@ -6,7 +6,7 @@ content_img_path: /images/shawn-henry-eK_aInAXydw-unsplash.jpg
 content_img_alt: difficulty training
 seo:
   type: stackbit_page_meta
-  title: The Advantages and Disadvantages of Working from Home
+  title: It's Going To Be Difficult Until It Gets Easy
   description: Work at home parent is an entrepreneur who works from home
   extra:
     - name: 'og:type'
