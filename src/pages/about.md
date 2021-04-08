@@ -37,4 +37,16 @@ I'm **Ashwin Casmir.** I am a digital marketer with more than 10 years of profes
 
 I am inspired by companies with big vision & start-ups with big dreams. And I am eager to work with passionate people in building a brand that makes a dent in the universe.
 
+My areas of expertise are:
+
+*   Copywriting
+
+*   Content Marketing
+
+*   SEO / SEM
+
+*   Online Advertising
+
+*   Social Media Marketing
+
 **Need help in building your brand on digital? Let's talk**
