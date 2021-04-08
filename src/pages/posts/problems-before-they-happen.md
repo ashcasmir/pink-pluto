@@ -1,6 +1,5 @@
 ---
 title: Solving Problems Before They Happen
-subtitle: lorem-ipsum
 date: '2021-04-08'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
