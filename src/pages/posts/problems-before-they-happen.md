@@ -12,10 +12,23 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-Critical thinking is usually shown as the key skill when it comes to problem-solving. However, there is an even more important skill that goes a step beyond problem-solving, into 'problem prevention' - Ownership!
 
-When you have ownership, you don’t give up responsibility over something because ‘it’s not part of your job’. You take up the mantle and do things, even when it’s not your responsibility to act.
 
-When you give up responsibility, saying that ‘it’s not your job’ – you usually have someone else to blame when things don’t go your way. However, this protection, *limits your experience*, since there are you work within a ‘*no consequence’ bubble*.
+Photo by [**Ibrahim Boran**](https://www.pexels.com/@ibrahimboran?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/man-sitting-on-the-vehicle-photograph-3582560/?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels)
 
-When you focus on getting good outcomes, rather than solving problems – you move beyond the realm of problems and go into preventing problems before they occur. And that’s the happy place where you'd want to be.
+Critical thinking is usually shown as the key skill when it comes to problem-solving. But, there is an even more important skill that goes a step beyond problem-solving, into 'problem prevention'. Ownership!
+
+
+When you have ownership, you don’t give up responsibility for something because ‘it’s not part of your job’. You take up the mantle and do things, even when it’s not your responsibility to act.
+
+
+When you give up responsibility, usually there is someone else to blame when things don’t go your way. But, this protection, *limits your experience.* Since here you work within a ‘*no consequence’ bubble*.
+
+
+Thus, when you focus on getting good outcomes, rather than solving problems – you move beyond the realm of problems. 
+
+
+This allows you to prevent problems before they occur. And that’s the place where you'd want to be.
+
+
+
