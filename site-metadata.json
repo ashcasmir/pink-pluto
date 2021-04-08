@@ -26,15 +26,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Resume",
-                "url": "#resume",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
