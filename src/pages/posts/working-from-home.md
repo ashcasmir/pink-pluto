@@ -32,6 +32,7 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 template: post
+thumb_img_alt: difficult-until-easy
 ---
 Photo by [*shawn henry*](https://unsplash.com/@1ofakind?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/s/photos/the-grind?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
