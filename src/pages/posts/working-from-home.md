@@ -36,12 +36,16 @@ thumb_img_alt: difficult-until-easy
 ---
 Photo by [*shawn henry*](https://unsplash.com/@1ofakind?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/s/photos/the-grind?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
-Most of the things that I am now good at, were a lot difficult in the beginning. I used to be very conscious while doing things that have now become second nature to me.
+ 
+Most of the things that I am now good at, were difficult in the beginning. I used to be very conscious while doing things that have now become second nature to me.
 
-Perhaps, it was spending all that time immersed in the monotony of repetition. Or maybe it is just the way of life. Unlike, most video games, where the difficulty is progressively incremental.
 
-One thing is for sure, it does get easy. But only later. Once you have put in the hours. The best you could do is to try to cope with the learning curve. You just have to drive through it.
+Perhaps, it was spending all that time immersed in the monotony and repetition of the grind. Or I could be cynical and blame it as the way of life. 
 
-> So, it is going to be difficult, until the time it becomes easy.
+
+One thing is for sure, it does get easy, but only later, once you have put in the hours. The best you could do is to try to cope with the learning curve. You have to drive through it.
+
+> So, it is going to be difficult, until it becomes easy.
+
 
 This is the unwritten rule of the world. So the only thing that we all can do, is to be patient and put in that time.
