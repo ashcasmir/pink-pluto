@@ -49,6 +49,4 @@ My areas of expertise are:
 
 *   Social Media Marketing
 
-Here is my complete resume and credentials.
-
 **Need help in building your brand on digital? Let's talk**
