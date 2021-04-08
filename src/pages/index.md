@@ -4,7 +4,7 @@ has_intro: true
 intro_content: |
   #### Helping brands build their business on digital.
 
-  *Digital Marketing • Content *• *Growth • Product • Search*
+  Digital Marketing • Content • *Growth • Product • Search*
 intro_actions:
   - type: action
     label: Learn More
