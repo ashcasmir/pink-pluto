@@ -29,7 +29,7 @@
             },
             {
                 "label": "Resume",
-                "url": "#",
+                "url": "#resume",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
