@@ -4,7 +4,6 @@ subtitle: lorem-ipsum
 date: '2021-03-30'
 thumb_img_alt: difficult-until-easy
 content_img_alt: difficulty training
-excerpt: lorem-ipsum
 seo:
   type: stackbit_page_meta
   title: It's Going To Be Difficult Until It Gets Easy
